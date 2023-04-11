@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stitchineer
-- 👀 I’m interested in HTML5, CSS, JavaScript
-- 🌱 I’m currently learning Full-Stack Web Development
-- 💞️ I’m looking to collaborate on using Wine on the new M1 mac (help me please)
+- 👀 I’m interested in React, Tailwind CSS, and Figma
+- 🌱 I’m currently learning UX Visual Design
+- 💞️ I love coding, and it turns out I'm very good at it!
 - 📫 
 
 <!---
